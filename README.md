@@ -1,6 +1,6 @@
 # myKatas
 
-I will be storing the solutions for the problems I solved in codewars. 
+I will be storing the solutions for the problems I solved in [Codewars](https://www.codewars.com/users/zEduardofaria/). 
 
 ### Programming languages used to solve the Kata
 
