@@ -10,4 +10,4 @@ I will be storing the solutions for the problems I solved in [Codewars](https://
 | [JavaScript](https://github.com/zEduardofaria/myKatas/tree/master/JavaScript) | 16 | 
 
 
-My CodeWars profile: https://www.codewars.com/users/zEduardofaria/
+![Code Wars Badges](https://www.codewars.com/users/zEduardofaria/badges/large)
