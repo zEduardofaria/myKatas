@@ -6,5 +6,5 @@ Implement a method that accepts 3 integer values a, b, c. The method should retu
 (In this case, all triangles must have surface greater than 0 to be accepted).
 */
 function isTriangle(a,b,c){
-  return b + c > a && b + a > c && a + b > c
+  return b + c > a && b + a > c && a + c > b
 }
