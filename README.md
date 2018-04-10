@@ -7,7 +7,7 @@ I will be storing the solutions for the problems I solved in [Codewars](https://
 
 |    Programming Language  |    Kata Count  | 
 |----------|:-------------:|
-| [JavaScript](https://github.com/zEduardofaria/myKatas/tree/master/JavaScript) | 19 | 
+| [JavaScript](https://github.com/zEduardofaria/myKatas/tree/master/JavaScript) | 20 | 
 
 
 ![Code Wars Badges](https://www.codewars.com/users/zEduardofaria/badges/large)
